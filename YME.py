@@ -24,9 +24,9 @@ def raffle():
         r = requests.get(url, params=data, timeout = 10) #10 second timeout
 
         if r.status_code == 200:
-            print('Entered Raffle ' + str(number) + ' Times. ')
+            print('Entered YME Raffle ' + str(number) + ' Times. ')
         else:
-            print('Raffle Entry Unsuccessful.')
+            print('YME Raffle Entry Unsuccessful.')
 
 if __name__ == "__main__":
     raffle()
