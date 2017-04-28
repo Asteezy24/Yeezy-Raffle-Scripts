@@ -176,7 +176,6 @@ loginPayload = {
 }
 
 loginPost_first = session.post(POSTurl, headers=UserAgent, data=loginPayload)
-print(loginPost_first.status_code)
 
 login2payload = {
     'loginEmail':email,
