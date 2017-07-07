@@ -1,4 +1,4 @@
-# Triple-White-Yeezy-Raffle-Scripts
+#Yeezy-Raffle-Scripts
 A collection of python scripts to increase your chances at winning a yeezy raffle online. All must be run using python3. 
 
 BEFORE RUNNING ANY OF THESE:
